@@ -15,6 +15,7 @@ The Legal Document Automation and Customization Tool is a project designed to si
 
 ## Working and Results
 
+
 **Step 1:** Upon opening the app, it displays the following web page.
 ![snip1](https://github.com/nikithaundavalli/Legal-Document-Automation-and-Customization-Tool/assets/128024373/858eef94-07a8-452e-9878-a68e9db027f6)
 **Step 2:** User can input the query in left side search bar to search for the documents and the related document will be displayed on the right side.
